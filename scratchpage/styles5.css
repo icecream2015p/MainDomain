@@ -25,18 +25,3 @@ button {
 button:hover {
     background-color: #3700b3;
 }
-
-.links {
-    margin-top: 20px;
-}
-
-.links a {
-    display: block;
-    margin: 5px 0;
-    color: #1a73e8;
-    text-decoration: none;
-}
-
-.links a:hover {
-    text-decoration: underline;
-}
