@@ -5,6 +5,9 @@
         <title>リダイレクト</title>
     </head>
     <body>
-        <script src="index.js"></script>
+        <noscript>JavaScriptをONにして下さい</noscript>
+        <script async>
+            location.href = (new URL(location.href)).searchParams.get('url');
+        </script>
     </body>
 </html>
