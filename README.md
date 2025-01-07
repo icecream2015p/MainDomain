@@ -1,5 +1,2 @@
-# どうもこんにちは
-## ドメイン取りましたー
-このリポジトリは、獲得した独自ドメインを利用するためのリポジトリです。
-## クレジット
-このページのサイトマップは[http://www.sitemapxml.jp/](http://www.sitemapxml.jp/)で作成されました。ありがとうございます!
+# OldHomePage
+これは[icecream2015p.com](icecream2015p.com)のアーカイブです。
